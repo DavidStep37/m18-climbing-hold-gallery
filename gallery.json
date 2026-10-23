@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sloper",
+    "name": "Sloper"
+  },
+  {
+    "id": "crimp",
+    "name": "Crimp"
+  },
+  {
+    "id": "hueco",
+    "name": "Hueco"
+  },
+  {
+    "id": "ball",
+    "name": "Ball Sloper"
+  },
+  {
+    "id": "canyon",
+    "name": "Curved Sloper"
+  },
+  {
+    "id": "slot",
+    "name": "Slot"
+  },
+  {
+    "id": "chicken",
+    "name": "Chicken-Head Jug"
+  },
+  {
+    "id": "pocket",
+    "name": "Pocket"
+  },
+  {
+    "id": "edge",
+    "name": "Edge"
+  },
+  {
+    "id": "moon",
+    "name": "Crescent Sloper"
+  },
+  {
+    "id": "flintstone",
+    "name": "Rounded Jug"
+  },
+  {
+    "id": "incut",
+    "name": "Incut Pinch"
+  },
+  {
+    "id": "xxl",
+    "name": "Long Pinch"
+  },
+  {
+    "id": "schism",
+    "name": "Rail"
+  },
+  {
+    "id": "hoof",
+    "name": "Hoof Jug"
+  }
+]

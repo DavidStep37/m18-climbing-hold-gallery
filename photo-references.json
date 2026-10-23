@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sloper",
+    "productPage": "https://escapeclimbing.com/products/ec10105",
+    "productName": "Sloper"
+  },
+  {
+    "id": "crimp",
+    "productPage": "https://escapeclimbing.com/products/ec30201",
+    "productName": "Crimp"
+  },
+  {
+    "id": "hueco",
+    "productPage": "https://escapeclimbing.com/products/ec10704",
+    "productName": "Hueco"
+  },
+  {
+    "id": "ball",
+    "productPage": "https://escapeclimbing.com/products/ec10306",
+    "productName": "Ball Sloper"
+  },
+  {
+    "id": "canyon",
+    "productPage": "https://escapeclimbing.com/products/ec10304",
+    "productName": "Curved Sloper"
+  },
+  {
+    "id": "slot",
+    "productPage": "https://escapeclimbing.com/products/ec10805",
+    "productName": "Slot"
+  },
+  {
+    "id": "chicken",
+    "productPage": "https://escapeclimbing.com/products/ec51002",
+    "productName": "Chicken-Head Jug"
+  },
+  {
+    "id": "pocket",
+    "productPage": "https://escapeclimbing.com/products/ec19500",
+    "productName": "Pocket"
+  },
+  {
+    "id": "edge",
+    "productPage": "https://escapeclimbing.com/products/ec10402",
+    "productName": "Edge"
+  },
+  {
+    "id": "moon",
+    "productPage": "https://escapeclimbing.com/products/ec10505",
+    "productName": "Crescent Sloper"
+  },
+  {
+    "id": "flintstone",
+    "productPage": "https://escapeclimbing.com/products/kc60006",
+    "productName": "Rounded Jug"
+  },
+  {
+    "id": "incut",
+    "productPage": "https://escapeclimbing.com/products/ec11011",
+    "productName": "Incut Pinch"
+  },
+  {
+    "id": "xxl",
+    "productPage": "https://escapeclimbing.com/products/ec19900",
+    "productName": "Long Pinch"
+  },
+  {
+    "id": "schism",
+    "productPage": "https://escapeclimbing.com/products/fc02009",
+    "productName": "Rail"
+  },
+  {
+    "id": "hoof",
+    "productPage": "https://escapeclimbing.com/products/fr20011",
+    "productName": "Hoof Jug"
+  }
+]
