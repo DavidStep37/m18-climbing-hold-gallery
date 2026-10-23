@@ -8,11 +8,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install Python test dependencies
-        run: python3 -m pip install -r requirements.txt
+        run: |
+          python3 -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
       - name: Check Python scripts and tests
         run: |
-          python3 -m py_compile scripts/*.py
-          python3 -m unittest discover -s tests -v
+          .venv/bin/python -m py_compile scripts/*.py
+          .venv/bin/python -m unittest discover -s tests -v
       - name: Typecheck macOS app and launcher
         run: |
           swiftc -typecheck ClimbingHoldCard.swift

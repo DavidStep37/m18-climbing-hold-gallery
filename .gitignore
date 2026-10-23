@@ -16,3 +16,5 @@ assets/*
 *.gif
 *.mbg
 *before-install*.json
+
+.venv/
